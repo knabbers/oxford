@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="gto-static" content="1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Grand Theft Oxford</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+<script type="importmap">
+{ "imports": { "three": "./vendor/three/build/three.module.js", "three/addons/": "./vendor/three/examples/jsm/" } }
+</script>
+</head>
+<body>
+<canvas id="view"></canvas>
+<div id="hud">
+  <div id="area"></div>
+  <div id="clock"></div>
+  <div id="money"></div>
+  <div id="wanted"></div>
+  <div id="objective"></div>
+  <canvas id="minimap" width="200" height="200"></canvas>
+  <div id="prompt"></div>
+  <div id="toasts"></div>
+  <div id="dialog"><div id="dialog-speaker"></div><div id="dialog-text"></div><div id="dialog-hint">E / click to continue</div></div>
+  <div id="chatlog"></div>
+  <input id="chatinput" maxlength="140" placeholder="Say something…" autocomplete="off">
+  <div id="crosshair"></div>
+</div>
+<div id="overlay"></div>
+<div id="bigmap"><canvas id="bigmap-canvas"></canvas></div>
+<div id="fade"></div>
+<div id="start">
+  <div class="card">
+    <h1>Grand Theft <span>Oxford</span></h1>
+    <p class="sub">Michaelmas Term. You have an essay due. You will not write it.</p>
+    <div class="playas-label" id="playas-label">Play as</div>
+    <div id="playas" role="radiogroup" aria-labelledby="playas-label"></div>
+    <label>Name <input id="name" maxlength="24" placeholder="Fresher"></label>
+    <button id="play" disabled>Loading Oxford…</button>
+    <div id="loadmsg"></div>
+    <div class="playas-hint">Press <b>Esc</b> in game for the keys.</div>
+  </div>
+</div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>

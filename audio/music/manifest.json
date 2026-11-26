@@ -1,0 +1,172 @@
+{
+ "note": "Written by tools/audio/prepare_music.mjs. Every track is CC0 (public domain dedication), from opengameart.org.",
+ "lufs": -23,
+ "tracks": [
+  {
+   "id": "new_town",
+   "file": "new_town.mp3",
+   "title": "A New Town (RPG Theme)",
+   "author": "cynicmusic",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/a-new-town-rpg-theme",
+   "moods": [
+    "cloister"
+   ],
+   "duration": 62.25,
+   "lufs": -23.5,
+   "peakDb": -7.7,
+   "bytes": 498206
+  },
+  {
+   "id": "another_august",
+   "file": "another_august.mp3",
+   "title": "Another August",
+   "author": "cynicmusic",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/another-august",
+   "moods": [
+    "cloister"
+   ],
+   "duration": 206.13,
+   "lufs": -23.4,
+   "peakDb": -9.4,
+   "bytes": 1649265
+  },
+  {
+   "id": "simple_trifle",
+   "file": "simple_trifle.mp3",
+   "title": "A Simple Trifle",
+   "author": "jestar",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/a-simple-trifle",
+   "moods": [
+    "cloister"
+   ],
+   "duration": 24.16,
+   "lufs": -23.5,
+   "peakDb": -10.3,
+   "bytes": 193514
+  },
+  {
+   "id": "champ_de_tournesol",
+   "file": "champ_de_tournesol.mp3",
+   "title": "Champ de tournesol",
+   "author": "Loyalty Freak Music (Komiku)",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/champ-de-tournesol",
+   "moods": [
+    "green"
+   ],
+   "duration": 115.96,
+   "lufs": -23.4,
+   "peakDb": -8.9,
+   "bytes": 927868
+  },
+  {
+   "id": "contemplation",
+   "file": "contemplation.mp3",
+   "title": "Contemplation",
+   "author": "Joth",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/contemplation-0",
+   "moods": [
+    "green",
+    "open"
+   ],
+   "duration": 119.95,
+   "lufs": -23.6,
+   "peakDb": -8.3,
+   "bytes": 959842
+  },
+  {
+   "id": "town_3",
+   "file": "town_3.mp3",
+   "title": "Town 3",
+   "author": "Pro Sensory",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/town-3",
+   "moods": [
+    "town"
+   ],
+   "duration": 99.27,
+   "lufs": -23.5,
+   "peakDb": -9.2,
+   "bytes": 794330
+  },
+  {
+   "id": "bards_tale",
+   "file": "bards_tale.mp3",
+   "title": "Medieval: The Bard's Tale",
+   "author": "RandomMind",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/medieval-the-bards-tale",
+   "moods": [
+    "town"
+   ],
+   "duration": 151.72,
+   "lufs": -23.4,
+   "peakDb": -8.6,
+   "bytes": 1213961
+  },
+  {
+   "id": "just_you_and_me",
+   "file": "just_you_and_me.mp3",
+   "title": "Just you and me (guitar)",
+   "author": "Pro Sensory",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/just-you-and-me-guitar",
+   "moods": [
+    "lanes"
+   ],
+   "duration": 98.48,
+   "lufs": -23.4,
+   "peakDb": -11,
+   "bytes": 788061
+  },
+  {
+   "id": "frets",
+   "file": "frets.mp3",
+   "title": "Frets",
+   "author": "Pro Sensory",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/frets",
+   "moods": [
+    "lanes"
+   ],
+   "duration": 226.04,
+   "lufs": -23.4,
+   "peakDb": -8,
+   "bytes": 1808508
+  },
+  {
+   "id": "slow_stride",
+   "file": "slow_stride.mp3",
+   "title": "Slow Stride",
+   "author": "isaiah658",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/slow-stride",
+   "moods": [
+    "open"
+   ],
+   "duration": 131.06,
+   "lufs": -23.5,
+   "peakDb": -7.9,
+   "bytes": 1048658
+  },
+  {
+   "id": "fouler_lhorizon",
+   "file": "fouler_lhorizon.mp3",
+   "title": "Fouler l'horizon",
+   "author": "Loyalty Freak Music (Komiku)",
+   "licence": "CC0",
+   "source": "https://opengameart.org/content/fouler-lhorizon",
+   "moods": [
+    "open"
+   ],
+   "duration": 103.68,
+   "lufs": -23.4,
+   "peakDb": -10,
+   "bytes": 829648
+  }
+ ]
+}

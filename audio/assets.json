@@ -1,0 +1,313 @@
+{
+ "v": 1,
+ "note": "Written by tools/pack_assets.mjs. Everything the loading screen downloads and keeps (core/assets.js).",
+ "bytes": 104020131,
+ "groups": [
+  {
+   "name": "voice",
+   "files": [
+    {
+     "u": "audio/voice/manifest.json",
+     "b": 1020676,
+     "h": "50df66ffc906"
+    }
+   ],
+   "packs": [
+    {
+     "u": "audio/packs/voice-00-56849c7ae15c.pack",
+     "b": 9994751,
+     "h": "56849c7ae15c"
+    },
+    {
+     "u": "audio/packs/voice-01-0eea2ad63d2d.pack",
+     "b": 9995081,
+     "h": "0eea2ad63d2d"
+    },
+    {
+     "u": "audio/packs/voice-02-64578555342e.pack",
+     "b": 9990403,
+     "h": "64578555342e"
+    },
+    {
+     "u": "audio/packs/voice-03-070da3a8e46e.pack",
+     "b": 9998925,
+     "h": "070da3a8e46e"
+    },
+    {
+     "u": "audio/packs/voice-04-a741f2f5c530.pack",
+     "b": 9996558,
+     "h": "a741f2f5c530"
+    },
+    {
+     "u": "audio/packs/voice-05-3e9aa10ec312.pack",
+     "b": 9996456,
+     "h": "3e9aa10ec312"
+    },
+    {
+     "u": "audio/packs/voice-06-96963cd6c943.pack",
+     "b": 9995796,
+     "h": "96963cd6c943"
+    },
+    {
+     "u": "audio/packs/voice-07-654fa0a37ccb.pack",
+     "b": 9998557,
+     "h": "654fa0a37ccb"
+    },
+    {
+     "u": "audio/packs/voice-08-81048229807b.pack",
+     "b": 5316035,
+     "h": "81048229807b"
+    }
+   ],
+   "index": {
+    "u": "audio/packs/voice-index-3a3617d37d42.json",
+    "b": 223194,
+    "h": "3a3617d37d42"
+   },
+   "clips": 7602,
+   "bytes": 86526432
+  },
+  {
+   "name": "music",
+   "files": [
+    {
+     "u": "audio/music/another_august.mp3",
+     "b": 1649265,
+     "h": "7ae310186cc1"
+    },
+    {
+     "u": "audio/music/bards_tale.mp3",
+     "b": 1213961,
+     "h": "f86035e3c7d1"
+    },
+    {
+     "u": "audio/music/champ_de_tournesol.mp3",
+     "b": 927868,
+     "h": "dce6e1cbe40d"
+    },
+    {
+     "u": "audio/music/contemplation.mp3",
+     "b": 959842,
+     "h": "e37d1e729c9d"
+    },
+    {
+     "u": "audio/music/fouler_lhorizon.mp3",
+     "b": 829648,
+     "h": "a51c66022c3c"
+    },
+    {
+     "u": "audio/music/frets.mp3",
+     "b": 1808508,
+     "h": "d46c83c00277"
+    },
+    {
+     "u": "audio/music/just_you_and_me.mp3",
+     "b": 788061,
+     "h": "14dd7aa2ec22"
+    },
+    {
+     "u": "audio/music/manifest.json",
+     "b": 3702,
+     "h": "6123cc2bbb9d"
+    },
+    {
+     "u": "audio/music/new_town.mp3",
+     "b": 498206,
+     "h": "b8258868d5e8"
+    },
+    {
+     "u": "audio/music/simple_trifle.mp3",
+     "b": 193514,
+     "h": "5261e15b7e78"
+    },
+    {
+     "u": "audio/music/slow_stride.mp3",
+     "b": 1048658,
+     "h": "10eae4418127"
+    },
+    {
+     "u": "audio/music/town_3.mp3",
+     "b": 794330,
+     "h": "168df6484c05"
+    }
+   ],
+   "bytes": 10715563
+  },
+  {
+   "name": "ambient",
+   "files": [
+    {
+     "u": "audio/ambient/blackbird.mp3",
+     "b": 157364,
+     "h": "277c4ccf5cdd"
+    },
+    {
+     "u": "audio/ambient/cheer.mp3",
+     "b": 105884,
+     "h": "94a4d7475353"
+    },
+    {
+     "u": "audio/ambient/cow.mp3",
+     "b": 98324,
+     "h": "30cfca33a304"
+    },
+    {
+     "u": "audio/ambient/crow.mp3",
+     "b": 38924,
+     "h": "bde0c0863311"
+    },
+    {
+     "u": "audio/ambient/dawn.mp3",
+     "b": 482732,
+     "h": "51e441723bdc"
+    },
+    {
+     "u": "audio/ambient/espresso.mp3",
+     "b": 43604,
+     "h": "80eb4265d4e7"
+    },
+    {
+     "u": "audio/ambient/goose.mp3",
+     "b": 106964,
+     "h": "70a0d688574b"
+    },
+    {
+     "u": "audio/ambient/greattit.mp3",
+     "b": 31004,
+     "h": "671389bb4023"
+    },
+    {
+     "u": "audio/ambient/gull.mp3",
+     "b": 137924,
+     "h": "147caa2fbc8c"
+    },
+    {
+     "u": "audio/ambient/horse.mp3",
+     "b": 65924,
+     "h": "1600397d3adf"
+    },
+    {
+     "u": "audio/ambient/idle_coach.mp3",
+     "b": 128312,
+     "h": "0e9cf661e831"
+    },
+    {
+     "u": "audio/ambient/idle_train.mp3",
+     "b": 212480,
+     "h": "7390b78e759e"
+    },
+    {
+     "u": "audio/ambient/magpie.mp3",
+     "b": 36044,
+     "h": "f391340d455a"
+    },
+    {
+     "u": "audio/ambient/sparrow.mp3",
+     "b": 85004,
+     "h": "76a6cfb3aba2"
+    },
+    {
+     "u": "audio/ambient/walla_cafe1.mp3",
+     "b": 282536,
+     "h": "ff92262b681d"
+    },
+    {
+     "u": "audio/ambient/walla_cafe2.mp3",
+     "b": 282536,
+     "h": "06a224415275"
+    },
+    {
+     "u": "audio/ambient/walla_dining1.mp3",
+     "b": 282536,
+     "h": "68681e0e5391"
+    },
+    {
+     "u": "audio/ambient/walla_dining2.mp3",
+     "b": 282536,
+     "h": "d772a379dcbd"
+    },
+    {
+     "u": "audio/ambient/walla_group1.mp3",
+     "b": 198368,
+     "h": "0161538ed67d"
+    },
+    {
+     "u": "audio/ambient/walla_group2.mp3",
+     "b": 156536,
+     "h": "dfe6283769c3"
+    },
+    {
+     "u": "audio/ambient/walla_kids1.mp3",
+     "b": 282536,
+     "h": "a8afcb097973"
+    },
+    {
+     "u": "audio/ambient/walla_kids2.mp3",
+     "b": 282536,
+     "h": "1101be7d493f"
+    },
+    {
+     "u": "audio/ambient/walla_kids3.mp3",
+     "b": 282536,
+     "h": "40ab484658ce"
+    },
+    {
+     "u": "audio/ambient/walla_market1.mp3",
+     "b": 282536,
+     "h": "297ebb6ef2bd"
+    },
+    {
+     "u": "audio/ambient/walla_market2.mp3",
+     "b": 282536,
+     "h": "c349c5fa2cbc"
+    },
+    {
+     "u": "audio/ambient/walla_pub1.mp3",
+     "b": 282536,
+     "h": "e68a9f03ee68"
+    },
+    {
+     "u": "audio/ambient/walla_pub2.mp3",
+     "b": 282536,
+     "h": "853df23ba0ad"
+    },
+    {
+     "u": "audio/ambient/walla_pub3.mp3",
+     "b": 282536,
+     "h": "9c64245ca0df"
+    },
+    {
+     "u": "audio/ambient/walla_street1.mp3",
+     "b": 282536,
+     "h": "cff8d7199834"
+    },
+    {
+     "u": "audio/ambient/walla_street2.mp3",
+     "b": 282536,
+     "h": "33f5761b5b01"
+    },
+    {
+     "u": "audio/ambient/walla_street3.mp3",
+     "b": 282536,
+     "h": "f4715495279d"
+    },
+    {
+     "u": "audio/ambient/walla_street4.mp3",
+     "b": 282536,
+     "h": "e45684bc7f5b"
+    },
+    {
+     "u": "audio/ambient/woodpigeon.mp3",
+     "b": 86804,
+     "h": "b5ff5a33911b"
+    },
+    {
+     "u": "audio/ambient/wren.mp3",
+     "b": 85364,
+     "h": "503555d70fd8"
+    }
+   ],
+   "bytes": 6778136
+  }
+ ]
+}
